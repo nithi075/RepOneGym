@@ -13,7 +13,6 @@ import Footer from "./components/Footer/Footer";
 import FloatingWhatsapp from "./components/Floating/Floating";
 import Brands from "./components/brands/Brands"
 import About from "./components/About/About";
-import why from "./components/why/Why"
 import Why from "./components/why/Why";
 
 
@@ -103,6 +102,7 @@ function App() {
         <FAQ/>
 
       </section>
+      
       <Why/>
 
 
