@@ -24,7 +24,7 @@ export default function About() {
           </h2>
 
           <p className="about-description">
-            A fitness space built exclusively for women. At <strong>Monicka Gym</strong>, 
+            A fitness space built exclusively for women. At <strong>One Rep Gym</strong>, 
             we don't just count reps; we make reps count. We transform confidence, 
             empowering you to lead with strength in every aspect of life.
           </p>

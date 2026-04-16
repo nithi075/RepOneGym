@@ -11,15 +11,15 @@ export default function Footer() {
         {/* BRAND COLUMN */}
         <div className="footer-brand">
           <div className="footer-logo">
-            <img src={LogoImg} alt="Monicka Gym" className="footer-logo-img" />
+            <img src={LogoImg} alt="Rep OneGym" className="footer-logo-img" />
             <div className="logo-text">
-              <h2>MONICKA<span>GYM</span></h2>
-              <small>WOMEN'S ELITE FITNESS</small>
+              <h2>Rep One<span>GYM</span></h2>
+              <small>ELITE PERFORMANCE CENTER</small>
             </div>
           </div>
           <p className="footer-tagline">
-            Empowering women through strength and discipline. 
-            The premier destination for body transformation in Krishnagiri.
+            Redefining limits through strength and discipline. 
+            The premier destination for elite body transformation in Krishnagiri.
           </p>
           <div className="footer-social-wrapper">
             <a href="#" className="social-pill">INSTAGRAM</a>
@@ -50,15 +50,15 @@ export default function Footer() {
           <h3>Contact Us</h3>
           <div className="contact-item">
             <span className="icon">📍</span>
-            <p>Krishnagiri, Tamil Nadu, India</p>
+            <p>Madurai, Tamil Nadu, India</p>
           </div>
           <div className="contact-item">
             <span className="icon">📞</span>
-            <p>+91 77082 61929</p>
+            <p>+9193610 82268</p>
           </div>
           <div className="contact-item">
             <span className="icon">✉️</span>
-            <p>info@monickagym.com</p>
+            <p>info@reponegym.com</p>
           </div>
           <div className="business-hours">
             <p className="status">Open Today</p>
@@ -69,7 +69,7 @@ export default function Footer() {
 
       <div className="footer-bottom">
         <div className="bottom-container">
-          <p>&copy; {currentYear} MONICKA GYM. Elite Status Guaranteed.</p>
+          <p>&copy; {currentYear} Rep One GYM. Elite Status Guaranteed.</p>
           <p className="developer-tag">Crafted by <span>Sam Nithish</span></p>
         </div>
       </div>

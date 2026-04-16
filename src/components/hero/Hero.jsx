@@ -1,5 +1,5 @@
 import "./Hero.css";
-import HeroImage from "../../assets/hero-women.jpg"; 
+import HeroImage from "../../assets/hero-women.jpg"; // Updated image reference
 
 export default function Hero() {
   return (
@@ -13,7 +13,7 @@ export default function Hero() {
         <div className="hero-content">
           <div className="hero-tag">
             <span className="pulse-dot"></span> 
-            Elite Women’s Fitness
+            Premium Fitness Studio
           </div>
           
           <h1 className="hero-title">
@@ -24,7 +24,7 @@ export default function Hero() {
 
           <p className="hero-subtitle">
             Don’t just wish for it. Work for it. Join the elite community at 
-            <span className="highlight-red"> Monicka Gym</span> and break your boundaries.
+            <span className="highlight-red"> Rep OneGym</span> and break your boundaries.
           </p>
 
           <div className="hero-btns">
@@ -57,7 +57,7 @@ export default function Hero() {
              </div>
           </div>
           {/* Vertical Decoration */}
-          <div className="vertical-label">PREMIUM FITNESS</div>
+          <div className="vertical-label">PREMIUM PERFORMANCE</div>
         </div>
       </div>
     </section>

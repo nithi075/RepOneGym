@@ -4,8 +4,8 @@ export default function CTA() {
   
   // WhatsApp Link Handler
   const handleWhatsAppClick = () => {
-    const phoneNumber = "917708261929"; // Updated number
-    const message = "Hello Monicka Gym! I would like to book a free consultation for my fitness journey.";
+    const phoneNumber = "919361082268"; // Updated number
+    const message = "Hello Rep One Gym! I would like to book a free consultation for my fitness journey.";
     
     // URL-ah encode panni, new tab-la open pannuvom
     const waUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
@@ -27,7 +27,7 @@ export default function CTA() {
               YOUR <span>LIMITS?</span>
             </h2>
             <p className="cta-desc">
-              Join <strong>Monicka Gym</strong> today. The most elite women-only 
+              Join <strong>Rep One Gym</strong> today. The most elite women-only 
               fitness sanctuary in Krishnagiri. High-intensity training meets luxury comfort.
             </p>
             
@@ -39,9 +39,9 @@ export default function CTA() {
               </button>
               
               <div className="cta-contact-info">
-                 <a href="tel:+917708261929" className="cta-link">
+                 <a href="tel:+919361082268" className="cta-link">
                     <small>Direct Line</small>
-                    <span>+91 77082 61929</span>
+                    <span>+9193610 82268</span>
                  </a>
               </div>
             </div>

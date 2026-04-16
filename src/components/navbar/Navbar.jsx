@@ -24,8 +24,8 @@ export default function Navbar() {
       <div className="nav-container">
         {/* LOGO SECTION */}
         <div className="logo-box" onClick={() => { window.scrollTo(0, 0); setMenuOpen(false); }}>
-          <img src={LogoImg} alt="Monicka Gym" className="nav-logo" />
-          <h1 className="logo-text">MONICKA<span>GYM</span></h1>
+          <img src={LogoImg} alt="Rep OneGym" className="nav-logo" />
+          <h1 className="logo-text">REP ONE<span>GYM</span></h1>
         </div>
 
         {/* NAVIGATION LINKS */}
@@ -41,7 +41,7 @@ export default function Navbar() {
             ))}
           </ul>
           <div className="mobile-footer">
-            <p>Monicka Gym & Fitness, Trichy</p>
+            <p>Rep OneGym & Fitness, Madurai</p>
           </div>
         </div>
 

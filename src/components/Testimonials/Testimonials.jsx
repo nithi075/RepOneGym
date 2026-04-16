@@ -3,20 +3,20 @@ import "./Testimonials.css";
 export default function Testimonials() {
   const reviews = [
     {
-      text: "Amazing transformation experience! The atmosphere is so encouraging and safe for women to push their limits.",
-      author: "Sneha R.",
+      text: "Amazing transformation experience! The atmosphere is so encouraging and professional, pushing me to reach my fitness goals.",
+      author: "Sanjay R.",
       tag: "Weight Loss",
       rating: 5
     },
     {
-      text: "Best women fitness studio in the city. The privacy and professional coaching are absolutely top-notch.",
+      text: "Hands down the best fitness studio in the city. The state-of-the-art equipment and expert coaching are absolutely top-notch.",
       author: "Priya K.",
       tag: "Strength Training",
       rating: 5
     },
     {
-      text: "Loved the trainers' support. They don't just teach exercises; they build your inner confidence and strength.",
-      author: "Anitha M.",
+      text: "Loved the trainers' support. They don't just teach exercises; they focus on proper form and building long-term discipline.",
+      author: "Anish M.",
       tag: "Personal Coaching",
       rating: 5
     }

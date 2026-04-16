@@ -5,22 +5,22 @@ export default function Pricing() {
     {
       name: "Starter",
       price: 2999,
-      tagline: "For Fitness Beginners",
-      features: ["Gym Access", "General Training", "Locker Room", "Free WiFi"],
+      tagline: "Essential Training Access",
+      features: ["Full Gym Access", "Orientation Session", "Locker & Shower", "Standard Equipment"],
       recommended: false,
     },
     {
-      name: "Elite",
+      name: "Pro",
       price: 5499,
-      tagline: "Best for Transformation",
-      features: ["All Starter Features", "Personal Training (4/mo)", "Custom Diet Plan", "Group Classes"],
+      tagline: "Total Body Transformation",
+      features: ["All Starter Features", "Group Workout Classes", "Custom Workout Plan", "Steam & Sauna"],
       recommended: true,
     },
     {
-      name: "Platinum",
+      name: "Elite",
       price: 9999,
-      tagline: "Ultimate Luxury Experience",
-      features: ["All Elite Features", "Unlimited PT Sessions", "Physiotherapy", "Sauna & Spa Access"],
+      tagline: "The Premium Athlete Experience",
+      features: ["All Pro Features", "Personal Training (8/mo)", "Dietary Consultation", "Priority Equipment Access"],
       recommended: false,
     },
   ];
@@ -33,7 +33,7 @@ export default function Pricing() {
         <div className="pricing-header">
           <span className="subtitle-premium">INVEST IN YOURSELF</span>
           <h2 className="title-premium">MEMBERSHIP <span>PLANS</span></h2>
-          <p className="header-desc">No hidden fees. Choose the plan that fits your lifestyle.</p>
+          <p className="header-desc">No hidden fees. Choose the plan that fits your lifestyle and goals.</p>
         </div>
 
         <div className="price-grid">
