@@ -7,7 +7,7 @@ const FloatingWhatsapp = () => {
       <span className="wa-tooltip">Chat with us</span>
       
       <a
-        href="https://wa.me/917708261929?text=Hello%20Monicka%20Gym!%20I%20would%20like%20to%20book%20a%20free%20consultation%20for%20my%20fitness%20journey."
+        href="https://wa.me/919361082268?text=Hello%20Rep%20One%20Gym!%20I%20would%20like%20to%20book%20a%20free%20consultation%20for%20my%20fitness%20journey."
         target="_blank"
         rel="noreferrer"
         className="wa-float"
