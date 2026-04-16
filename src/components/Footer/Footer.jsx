@@ -50,11 +50,11 @@ export default function Footer() {
           <h3>Contact Us</h3>
           <div className="contact-item">
             <span className="icon">📍</span>
-            <p>Madurai, Tamil Nadu, India</p>
+            <p>Salem, Tamil Nadu, India</p>
           </div>
           <div className="contact-item">
             <span className="icon">📞</span>
-            <p>+9193610 82268</p>
+            <p>+91 93610 82268</p>
           </div>
           <div className="contact-item">
             <span className="icon">✉️</span>
